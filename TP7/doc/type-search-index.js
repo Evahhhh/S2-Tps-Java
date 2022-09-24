@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"staff","l":"Employee"},{"p":"staff","l":"Executive"},{"p":"staff","l":"Hourly"},{"p":"<Unnamed>","l":"Scenario"},{"p":"staff","l":"Staff"},{"p":"staff","l":"StaffMember"},{"p":"staff","l":"Volunteer"}]
